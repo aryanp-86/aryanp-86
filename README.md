@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Pokharkar</h1>
 <h3 align="center">I am a proficient fullstack developer specialized in the MERN stack and Next.js, possessing a profound passion for expanding my expertise in the realm of web development.</h3>
 
-- 🔭 I’m currently working on **BlockTrail - Software solution to identify the end receiver of a cryptocurrency transaction**
+- 🔭 I’m currently working on **Pikup - A Performant solution to fleet management**
 
 - 🌱 I’m currently learning **Hyperledger Caliper**
 
